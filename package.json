@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "font-awesome": "^4.7.0",
+    "js-pixel-fonts": "^1.6.0",
+    "next": "^14.2.3",
+    "next-themes": "^0.2.1",
+    "react": "18.2.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.0",
+    "sass": "^1.77.4"
+  }
+}

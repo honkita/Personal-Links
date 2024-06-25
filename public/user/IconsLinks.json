@@ -1,0 +1,6 @@
+{
+  "LinkedIn": { "prefix": "fab", "iconName": "linkedin" },
+  "House": { "prefix": "fas", "iconName": "house" },
+  "GitHub": { "prefix": "fab", "iconName": "github" },
+  "Instagram": { "prefix": "fab", "iconName": "instagram" }
+}
