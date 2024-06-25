@@ -1,8 +1,8 @@
 :root {
-  --background: #f7f3e3;
-  --main-text: #af9164;
-  --title-text: #433218;
-  --copyright-text: #8b5e1b;
+  --background: #fdebd3;
+  --main-text: #679186;
+  --title-text: #264e70;
+  --copyright-text: #264e70;
   --font-family: "font";
   transition: all 0.2s;
 }
