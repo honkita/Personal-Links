@@ -4,4 +4,7 @@
 
 ![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Maintained.svg)
 
+---
+
 This utilizes the base from [LinkHub](https://github.com/honkita/LinkHub).
+
